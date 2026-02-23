@@ -25,3 +25,5 @@ DevOps bridges development and operations to improve deployment speed, reliabili
 **Notes**
 
 This repository will contain learning notes, experiments, and mini-projects as I progress.
+
+`docker run	`
